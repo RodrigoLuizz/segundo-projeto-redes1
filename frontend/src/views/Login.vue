@@ -40,7 +40,6 @@ export default {
       data: [],
     };
   },
-  
   methods: {
     moveNumbers(id) {
       const num = id;
